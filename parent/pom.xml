@@ -22,7 +22,7 @@ limitations under the License.
         <java.version>1.8</java.version>
         <V.com.braintribe.logging>[2.0,2.1)</V.com.braintribe.logging>
         <V.com.braintribe.common>[2.0,2.1)</V.com.braintribe.common>
-        <V.org.apache.logging.log4j>2.24.0</V.org.apache.logging.log4j>
+        <V.org.apache.logging.log4j>2.24.1</V.org.apache.logging.log4j>
         <V.org.slf4j>1.7.36</V.org.slf4j>
     </properties>
     <licenses>
